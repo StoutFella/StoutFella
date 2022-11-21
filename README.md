@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 
 
 Born East African 🇪🇹 and raised North American 🇺🇸, <a href="https://stoutfella.myportfolio.com/about" target="_blank">StoutFella</a> (Yohanes Haile) is a multimedia creative technologist, based in California. <br>
 This habesha parent disappointment (fine art graduate) spends his days building and managing web content as well as crafting multimedia graphic visuals. When he is not busy pushing pixels, you can find him 3D rendering, hiking, and rereading the Ninja Foodi Pro Pressure Cooker + Air Fryer owner's manual.<br>    
@@ -8,9 +8,15 @@ This habesha parent disappointment (fine art graduate) spends his days building 
 📚 <b>Learning</b>: Three.js, Express.js, MongoDB...and perhaps the next framework/library 🥴
 
 ## 🌐 Socials:
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stoutfella) &nbsp; &nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stoutfella) &nbsp; &nbsp; 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UClsZX4R5z3XDv3u5Ploenrg) &nbsp; &nbsp; 
+<a href="https://www.youtube.com/@fellastout"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.artstation.com/stoutfella"><img src="https://img.icons8.com/color/24/artstation.png"/></a><sup>&nbsp;ArtStation</sup>
+
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
