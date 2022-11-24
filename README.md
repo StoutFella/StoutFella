@@ -3,12 +3,11 @@
 Born East African 🇪🇹 and raised North American 🇺🇸, <a href="https://stoutfella.myportfolio.com/about" target="_blank">StoutFella</a> (Yohanes Haile) is a multimedia creative technologist, based in California. <br>
 This habesha parent disappointment (fine art graduate) spends his days building and managing web content as well as crafting multimedia graphic visuals. When he is not busy pushing pixels, you can find him 3D rendering, hiking, and rereading the Ninja Foodi Pro Pressure Cooker + Air Fryer owner's manual.<br>    
 
-🏢 <b>Currently</b>: Web content manager for a regional bank</br> 
+🏢 <b>Currently</b>: Web Content Manager at a regional bank</br> 
 🛠️ <b>Tools of trade</b>: Cinema 4D, HTML, CSS, JavaScript, React, Drupal, JIRA, VS Code, Photoshop, AfterEffects, Adobe XD</br> 
 📚 <b>Learning</b>: Three.js, Express.js, MongoDB...and perhaps the next framework/library 🥴
 
 ## 🌐 Socials:
-
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stoutfella) &nbsp; &nbsp; 
