@@ -9,8 +9,6 @@ This habesha parent disappointment (fine art graduate) spends his days building 
 
 ## 🌐 Socials:
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stoutfella) &nbsp; &nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stoutfella) &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@fellastout"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg"/></a>
 &nbsp;&nbsp;&nbsp;
