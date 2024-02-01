@@ -9,7 +9,7 @@ This habesha parent disappointment (fine art graduate) spends his days building 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stoutfella) &nbsp; &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-haile) &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@fellastout"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.artstation.com/stoutfella"><img src="https://img.icons8.com/color/24/artstation.png"/></a><sup>&nbsp;ArtStation</sup>
