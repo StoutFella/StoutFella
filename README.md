@@ -1,11 +1,11 @@
-# Hi there 👋 
+# ሰላም 👋 
 
 Born East African 🇪🇹 and raised North American 🇺🇸, <a href="https://stoutfella.myportfolio.com/about" target="_blank">StoutFella</a> (Yohanes Haile) is a multimedia creative technologist, based in California. <br><br>
-This habesha parent disappointment (fine art graduate) spends his days building and managing web content as well as crafting multimedia graphic visuals. When he is not busy pushing pixels, you can find him 3D rendering, hiking, and rereading the Ninja Foodi Pro Pressure Cooker + Air Fryer owner's manual.<br>    
+This habesha parent disappointment (fine art graduate) spends his days managing website content and crafting multimedia graphics. When he's not busy pushing pixels you can find him pushing p...(plates, barbell plates). 🥴<br>    
 
 🏢 <b>Title</b>: Creative Technologist</br> 
 🛠️ <b>Tools of trade</b>:HTML, CSS, JavaScript, React, Drupal, JIRA, VS Code, Photoshop, AfterEffects, Figma, Cinema 4D</br> 
-📚 <b>Learning</b>: Three.js, Express.js, MongoDB...and the next week JavaScript framework/library maybe? 🥴
+📚 <b>Learning</b>: Three.js, Express.js, MongoDB...and the next week JavaScript framework/library maybe?
 
 ## 🌐 Socials:
 
