@@ -11,8 +11,6 @@ This habesha parent disappointment (fine art graduate) spends his days managing 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-haile) &nbsp; &nbsp; 
 <a href="https://www.youtube.com/@fellastout"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.artstation.com/stoutfella"><img src="https://img.icons8.com/color/24/artstation.png"/></a><sup>&nbsp;ArtStation</sup>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
@@ -26,7 +24,6 @@ This habesha parent disappointment (fine art graduate) spends his days managing 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) &nbsp; 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) &nbsp; 	
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) &nbsp; 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp; 
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) &nbsp; 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) &nbsp; 
