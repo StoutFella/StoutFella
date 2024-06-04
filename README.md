@@ -33,8 +33,8 @@ This habesha parent disappointment (fine art graduate) spends his days managing 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stoutfella&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stoutfella&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoutfella&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=stoutfella&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stoutfella&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoutfella&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
